@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChatRoomListDlg</class>
+ <widget class="QDialog" name="ChatRoomListDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>331</width>
+    <height>362</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTreeWidget" name="chatroomTree">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>331</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <attribute name="headerDefaultSectionSize">
+    <number>175</number>
+   </attribute>
+   <column>
+    <property name="text">
+     <string>服务器</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>当前在线人数</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

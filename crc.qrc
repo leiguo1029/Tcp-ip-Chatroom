@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>smile.ico</file>
+        <file>img/title001.png</file>
+        <file>img/phone.jpg</file>
+        <file>img/voice.jpg</file>
+        <file>img/video.jpg</file>
+        <file>img/sendfile.jpg</file>
+        <file>img/circle.jpg</file>
+        <file>img/timo.jpg</file>
+    </qresource>
+</RCC>
